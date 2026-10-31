@@ -1,0 +1,7 @@
+FOTOS DE PRODUCTOS
+Poné acá una foto cuadrada por producto (800x800), en formato .webp, con estos nombres exactos:
+mix-anti-estres.webp mix-matero.webp mix-amanecer.webp mix-digestivo.webp
+mix-relax.webp mix-acidez.webp mix-natera.webp mix-tropical.webp
+boldo.webp menta.webp manzanilla.webp hibiscus.webp burrito.webp
+coco.webp te-verde.webp cedron.webp te-rojo.webp
+Si falta una foto, la tarjeta muestra una hojita verde.
